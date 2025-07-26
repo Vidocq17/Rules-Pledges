@@ -25,7 +25,7 @@
       >
         <button
           @click="spinWheel"
-          class="bg-pink-600 hover:bg-pink-700 text-white font-bold py-2 px-6 rounded-full shadow-xl transform transition-transform active:scale-95"
+          class="bg-pink-600 hover:bg-pink-700 font-bold py-2 px-6 rounded-full shadow-xl transform transition-transform active:scale-95"
         >
           🎯 Tirer un gage
         </button>
